@@ -10,3 +10,6 @@
 
 ## Code 401 - Advanced Software Development
 
+## [The Command Line](./TheCommandline.md)
+
+## [Introduction to Sql](./SQL.md)
