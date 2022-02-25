@@ -13,3 +13,5 @@
 ## [The Command Line](./TheCommandline.md)
 
 ## [Introduction to Sql](./SQL.md)
+
+## [The Growth Mindset](./TheGrowthMindset.md)
