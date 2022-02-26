@@ -22,3 +22,23 @@
 
 *it needs a lot of time and space to run it so we are always trying to avoide it*
 
+##  Facts and Myths about Python names and values
+
+- the names refers to values:
+*for example name = 7 we refer the value 7 to the variable name*
+
+- names are reassigned independently:
+
+*if we refered y to the value name=7 ==> y=name and then changed the value of name==> name = 20 , y will still be 7 which is the old value of name or the first value that refered to y because "names are reassigned independently"*
+
+### *what if we refered a name to a list for example x = [1,2,3] and we refered y to x ==> y= x so the value of y will be [1,2,3] if we*
+
+*if we changed the value of x or the list by using any of the lisits fun as append and add a value 4 to the list [1,2,3,4] the value of y will change also because y is the list so for the lists the changes are reassigned its called "mutable values"* 
+
+
+
+
+
+
+
+
