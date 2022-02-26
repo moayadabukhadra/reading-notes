@@ -15,3 +15,5 @@
 ## [Introduction to Sql](./SQL.md)
 
 ## [The Growth Mindset](./TheGrowthMindset.md)
+
+## [Class01](./CLASS01.md)
