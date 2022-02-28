@@ -17,3 +17,5 @@
 ## [The Growth Mindset](./TheGrowthMindset.md)
 
 ## [Class01](./CLASS01.md)
+
+## [Class02](/CLASS02.md)
