@@ -26,3 +26,5 @@
 
 ## [Linked Lists](./Linked-Lists.md)
 
+## [Class06](./CLASS06.md)
+
