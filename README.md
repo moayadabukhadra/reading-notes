@@ -20,10 +20,13 @@
 
 ## [Class02](/CLASS02.md)
 
+## [Class03](/CLASS03.md)
+
 ## [Class04](./CLASS04.md)
 
 ## [Linked Lists](./Linked-Lists.md)
 
 ## [Class06](./CLASS06.md)
 
-##  [class07](./Class07.md)
+## [class07](./Class07.md)
+
