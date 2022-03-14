@@ -14,6 +14,7 @@
 
 - If you can’t access the name, then you’ll say that the name is "out of scope".
 
+
 ### Names and Scopes in Python:
 
 
@@ -31,9 +32,12 @@
 
 *"The LEGB rule is a kind of name lookup procedure, which determines the order in which Python looks up names."*
 
+
 ## Functions: The Local Scope: 
 
+
 *The local scope or function scope is a Python scope created at function calls. Every time you call a function, you’re also creating a new local scope.*
+
 
 ```
 >>> def square(base):
@@ -57,6 +61,8 @@ The square of 20 is: 400
 ```
 
 
+
 ## Modules: The Global Scope
+
 
 - The namespace of this module is the main global scope of your program.
