@@ -28,5 +28,6 @@
 
 ## [Class06](./CLASS06.md)
 
-## [class07](./Class07.md)
+##  [class07](./Class07.md)
 
+## [Class08](./Class08.md)
