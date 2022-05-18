@@ -58,3 +58,5 @@
 
 ## [Class29](./Class29.md)
 
+## [Hashtables](./Hashtables.md)
+
