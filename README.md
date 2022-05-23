@@ -61,3 +61,5 @@
 ## [Hashtables](./Hashtables.md)
 
 ## [Class31](./Class31.md)
+
+## [Class32](./Class32.md)
