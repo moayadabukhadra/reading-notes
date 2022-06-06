@@ -69,3 +69,5 @@
 ## [Graphs](./Graphs.md)
 
 ## [Class34](./Class34.md)
+
+## [Class36](./Class36.md)
